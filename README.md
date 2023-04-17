@@ -1,4 +1,3 @@
-### Hi there 👋
 
 Generalist and commercial engineer who loves technology but tries not to forget technology is just a means.
 
