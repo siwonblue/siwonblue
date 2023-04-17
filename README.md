@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Generalist and commercial engineer who loves technology but tries not to forget technology is just a means.
+
+
+
 <!--
 **siwonblue/siwonblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
